@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "blog",
   "resources": {
-    "hash": "sha256-Wh0GuuGtHULwNHuNTalGEEs20u5hWym+ryyIWLxbbhE=",
+    "hash": "sha256-XjkgY60UKnGKvnsRdGETw1oqpfIS2v3hFqsCnzJcZxU=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.4xsnm8lwn6.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "blog.wasm": "sha256-LORHodMXQBZdByE7n8Kbi/8+iIr8cl76Rm4YG4+as3c=",
+      "blog.wasm": "sha256-cqDt2Z+twqj1Mf7IvZGs+twKTT5yCPognvGq2TiBjfQ=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-fv35XGZ1SMegoS/qt9ZAU3yT6SelqCvgKHIWdMriO7E=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-pgob2jN6iPm/8bWC+gOgn8AnAer3ccp/7MYLOaecJsY=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-gLEoqtKq812rSDsNJTq/VxNYWGXo+wDG9P8z3c5nKRw=",
